@@ -50,7 +50,3 @@ a rake task from the root directory.
 ```no-highlight
 rake run
 ```
-
-[bower]: http://bower.io/
-[node]: http://nodejs.org/
-[nvm]: https://github.com/creationix/nvm
